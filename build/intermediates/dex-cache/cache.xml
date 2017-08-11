@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asi\Desktop\AndroidChat\uIMaterialdialogsLib\build\intermediates\bundles\default\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e215f5635541f83afc205b2ab664efdb89de6fb">
+        <dex dex="C:\Users\Asi\Desktop\AndroidChat\beehive\build\intermediates\transforms\dex\debug\folders\1000\8\classes_42a16109b6d148db8e17367e01c0614fe7b1fc93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asi\Desktop\AndroidChat\beehive\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a08c68ab7638a23f8b218fbe52fded8a23fed6e">
+        <dex dex="C:\Users\Asi\Desktop\AndroidChat\beehive\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb08daf81714bfe1c5849096e17a591ad562415b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asi\Desktop\AndroidChat\beehive\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Asi\Desktop\AndroidChat\beehive\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4e837859a49e0c1323aa1bf51a97a1aa3422a1d6\classes.dex" />
+    </item>
+
+</items>
